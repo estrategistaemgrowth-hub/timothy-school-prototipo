@@ -1,0 +1,36 @@
+{
+ "id": "./gestor.html",
+ "name": "Timothy School · Gestão",
+ "short_name": "TS Gestão",
+ "start_url": "./gestor.html#/admin",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "lang": "pt-BR",
+ "background_color": "#0f0d0d",
+ "theme_color": "#4e1119",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-192-maskable.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "maskable"
+  },
+  {
+   "src": "icon-512-maskable.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
